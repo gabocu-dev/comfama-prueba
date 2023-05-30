@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'comfama-prueba';
+  title = 'Los mejores ánimes - Comfama';
 }
